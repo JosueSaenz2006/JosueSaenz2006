@@ -67,8 +67,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 ### 🚀 Proyectos que representan mi estilo
 - 🔋 **Neon Tasks** — To-do minimalista con estética verde radiactiva (Angular + Firebase).  
 - 📱 **Ruteo Inteligente** — App Android para planificación de rutas con algoritmos de grafos.  
-- 💊 **Farmacia DB** — Sistema completo con **Oracle**, **Java** y **reportes**.  
-*(pon aquí los links a tus repos cuando los publiques)*
+- 💊 **Farmacia DB** — Sistema completo con **Oracle**, **Java** y **reportes**.
 
 ---
 
