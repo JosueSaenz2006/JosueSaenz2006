@@ -2,7 +2,7 @@
 Paleta: Verde Radiactivo #39FF14 | Verde Neón #00FF7F | Negro #0B0B0B
 Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu perfil.
 -->
-
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Josué%20Gabriel%20Sáenz%20Arias-⚡-39FF14?style=for-the-badge&labelColor=0B0B0B&color=39FF14" />
   <img src="https://img.shields.io/badge/Programador-Ecuador-39FF14?style=for-the-badge&labelColor=0B0B0B&color=39FF14" />
