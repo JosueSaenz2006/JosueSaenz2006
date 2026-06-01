@@ -17,7 +17,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 
 ### 🧪 Sobre mí
 - 👋 Soy **Josué Gabriel Sáenz Arias**, programador ecuatoriano (Cuenca), 19 años.  
-- 🎓 **Estudiante de Computación (5to ciclo)** en la **Universidad Politécnica Salesiana – Sede Cuenca**.  
+- 🎓 **Estudiante de Computación (6to ciclo)** en la **Universidad Politécnica Salesiana – Sede Cuenca**.  
 - 🏆 **Top 1 Ecuador en IEEEXtreme 18.0**.  
 - 🤝 Voluntario de **IEEEXtreme** desde hace **3 años**; experiencia en **hackathons** y **maratones** de programación.  
 - 🧩 Me encantan los retos de **algoritmos**, **apps móviles**, **full-stack** y algo de **DevOps**.  
