@@ -80,7 +80,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 ---
 
 ### 📫 Contacto
-- ✉️ **Email IEEE**: jsaenza1@est.ups.edu.ec
+- ✉️ **Email IEEE**: jsaenza1@ieee.org
 - ✉️ **Email Personal**: josuesaenz885@gmail.com   
 - 🏷️ **Marca**: **Jdejosuegamer Studios**  
 - 💼 **LinkedIn**: *https://www.linkedin.com/in/josu%C3%A9-gabriel-s%C3%A1enz-arias-721b88311/*  
