@@ -16,7 +16,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 ---
 
 ### 🧪 Sobre mí
-- 👋 Soy **Josué Gabriel Sáenz Arias**, programador ecuatoriano (Cuenca), 19 años.  
+- 👋 Soy **Josué Gabriel Sáenz Arias**, programador ecuatoriano (Cuenca), 20 años.  
 - 🎓 **Estudiante de Computación (6to ciclo)** en la **Universidad Politécnica Salesiana – Sede Cuenca**.  
 - 🏆 **Top 1 Ecuador en IEEEXtreme 18.0**.  
 - 🤝 Voluntario de **IEEEXtreme** desde hace **3 años**; experiencia en **hackathons** y **maratones** de programación.  
@@ -65,9 +65,9 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 ---
 
 ### 🚀 Proyectos que representan mi estilo
-- 🔋 **Neon Tasks** — To-do minimalista con estética verde radiactiva (Angular + Firebase).  
-- 📱 **Ruteo Inteligente** — App Android para planificación de rutas con algoritmos de grafos.  
-- 💊 **Farmacia DB** — Sistema completo con **Oracle**, **Java** y **reportes**.
+- 🔋 **DOOM 1993** — Simulador de DOOM 1993 para PC y Celular "Experimento de tecnologias".  
+- 📱 **SENDA** — App Android para planificación de rutas con algoritmos de grafos.  
+- 💊 **Hospital Systems** — Sistema completo con **Oracle**, **Java** y **reportes**.
 
 ---
 
@@ -92,6 +92,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 - 💚 Si brilla en **verde** y compila **rápido**, es mi vibe.  
 - 🕹️ Me gustan los retos tipo speedrun: **code → test → ship**.  
 - 🧠 “Primero correcto, luego rápido; al final, bonito (en verde).”
+- Dame cualquier reto que estoy seguro que voy a ser capaz de resolverlo!!
 
 ---
 
