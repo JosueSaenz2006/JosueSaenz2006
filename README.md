@@ -17,9 +17,9 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 
 ### 🧪 Sobre mí
 - 👋 Soy **Josué Gabriel Sáenz Arias**, programador ecuatoriano (Cuenca), 20 años.  
-- 🎓 **Estudiante de Computación (6to ciclo)** en la **Universidad Politécnica Salesiana – Sede Cuenca**.  
+- 🎓 **Estudiante de Computación (7to ciclo)** en la **Universidad Politécnica Salesiana – Sede Cuenca**.  
 - 🏆 **Top 1 Ecuador en IEEEXtreme 18.0**.  
-- 🤝 Voluntario de **IEEEXtreme** desde hace **3 años**; experiencia en **hackathons** y **maratones** de programación.  
+- 🤝 Voluntario de **IEEEXtreme** desde hace **4 años**; experiencia en **hackathons** y **maratones** de programación.  
 - 🧩 Me encantan los retos de **algoritmos**, **apps móviles**, **full-stack** y algo de **DevOps**.  
 - 🏭 Fundador de **Jdejosuegamer Studios**.
 
@@ -58,7 +58,7 @@ Tip: este repo debe llamarse exactamente como tu usuario para que aparezca en tu
 
 ### 🏆 Logros & highlights
 - 🥇 **Top 1 Ecuador – IEEEXtreme 18.0**  
-- 🧑‍🤝‍🧑 Voluntario IEEEXtreme **(2 años)**  
+- 🧑‍🤝‍🧑 Voluntario IEEEXtreme **(4 años)**  
 - 🧗 Participación constante en **hackathons** y **maratones** de programación  
 - 🧪 Proyectos académicos y personales en **Android**, **web full-stack**, **competitiva** y **bases de datos**
 
